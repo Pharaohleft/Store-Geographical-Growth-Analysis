@@ -44,7 +44,7 @@ Our task is to determine weak areas and opportunities for Super Store to boost b
 
 ---
 
-## Who is Reading this Analysis?
+## Stakeholder
 
 - Assuming that the Super Store is a family business and is owned by 1 or 2 owners who are very invested in their business.
 - Owners are likely not people who are expert in reading charts or interpreting statistical analysis, so our analysis will be in layman terms and easy to understand.
